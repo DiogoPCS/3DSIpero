@@ -1,5 +1,21 @@
+body {
+    background-image: url('../images/planodefundo.jpeg');
+    background-size: stretch;
+    background-repeat: none;
+    background-size: 100%;
+    background-color: darkblue;
+}
+
 img {
     width: 100%!important;
     height: 100%!important;
     box-shadow: 3px 3px 4px black;
+}
+
+.full-height {
+    height: 90vh;
+}
+
+.btn {
+    width: 25%;
 }
